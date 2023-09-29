@@ -1,1 +1,3 @@
-print("bonjour")
+print("bj")
+
+print('ok')
